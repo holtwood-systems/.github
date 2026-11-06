@@ -44,3 +44,8 @@ HTTP/SSE → continuous batching → Paged KV/block tables
 - **差分测试**：优化实现与独立参考实现做数值对比
 - **不变量验证**：检查 KV Cache 资源守恒、调度状态机与跨语言布局
 - **边界先于宣传**：CPU 参考、本地 smoke 和真实 GPU Serving 结果分开表述
+
+---
+
+维护者：[holtwood](https://github.com/holtwood) · 项目总览：[imshane.site/projects](https://imshane.site/projects)
+相关组织：[holtwood-arena](https://github.com/holtwood-arena)（比赛与 benchmark） · [holtwood-forks](https://github.com/holtwood-forks)（上游研读）
